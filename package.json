@@ -1,0 +1,24 @@
+{
+  "name": "planetsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurymesa01/PlanetsApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurymesa01/PlanetsApi/issues"
+  },
+  "homepage": "https://github.com/laurymesa01/PlanetsApi#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
